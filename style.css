@@ -1,0 +1,45 @@
+body {
+  background-color: rgb(218, 213, 213);
+}
+
+ol {
+  font-size: large;
+}
+div {
+  background-color: rgb(87, 100, 100);
+}
+div {
+  background-color: cadetblue;
+}
+div {
+  background-color: cyan;
+}
+div {
+  background-color: aquamarine;
+}
+div {
+  background-color: rgb(78, 85, 82);
+}
+ul {
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #333;
+}
+
+#secret {
+  float: left;
+}
+
+li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+li a:hover {
+  background-color: #111;
+}
